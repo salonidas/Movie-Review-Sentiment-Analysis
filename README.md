@@ -1,5 +1,8 @@
 # Movie-Review-Sentiment-Analysis
 
+<p>This is a mini project I did to learn Sentiment Analysis.
+ Providing all the resources, code and files here, hope it helps you too! </p>
+
 <h4>About the Dataset</h4>
  <p>The dataset is IMDB Movie Reviews.</p>
 
